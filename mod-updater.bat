@@ -15,4 +15,5 @@ del "crayfishfurniture.jar"
 del "Patchouli.jar"
 ECHO Mods Atualizados com sucesso!
 cls
+ECHO Mods Atualizados com sucesso!
 pause
